@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./styles.css";
 import { Magic } from "magic-sdk";
 import { ConnectExtension } from "@magic-ext/connect";
-
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import Web3 from "web3";
 // import './styles/globals.css'
 import HexEventRegistration from "./contracts/ethereum/HexEventRegistration.json";
@@ -181,6 +181,7 @@ Connect to your Wallet
                     </div>
                     <div className="col-md-12 col-lg-12 cards">
                         <img src={require('./static/Atul_Kumthekar.png')} alt="Avatar" className="avatar"/>
+                        <a href="https://www.linkedin.com/in/atul-kumthekar-b109021/"><LinkedInIcon /></a>
                         <div className="moderator">MODERATOR</div>
                         <div className="containers">
                             <h4><b>Atul Kumthekar</b></h4>
@@ -192,29 +193,34 @@ Connect to your Wallet
                 <div className="row row-md-12">
                     <div className=" col-md-12  cards">
                         <img src={require('./static/Garima_Singh.jfif')} alt="Avatar" className="avatar"/>
+                        <a href="https://www.linkedin.com/in/garima-singh-03907229/"><LinkedInIcon /></a>
                         <div className="containers">
                             <h4><b>Graima Singh</b></h4>
                             <p>Blockchain Research Analyst at TLV Fintech Solutions</p>
                         </div>
                     </div>
+                    
                     <div className="col-md-12 cards">
-                        <img src={require('./static/kamlesh.JPG')} alt="Avatar" className="avatar"/>
+                        <img src={require('./static/Dr_Sujata.jfif')} alt="Avatar" className="avatar"/>
+                        <a href="https://www.linkedin.com/in/dr-sujata-seshadrinathan-341621a/"><LinkedInIcon /></a>
                         <div className="containers">
-                            <h4><b>Kamlesh Nagware</b></h4>
-                            <p>CTO at Snapper Future Tech</p>
+                            <h4 ><b>DR. Sujata Seshadrinathan</b></h4>
+                            <p className="sujata">Adjunct Professor at SP Jain School of Global Management</p>
                         </div>
                     </div>
                 </div>
                 <div className="row row-md-12">
                     <div className="col-md-12 cards">
-                        <img src={require('./static/Dr_Sujata.jfif')} alt="Avatar" className="avatar"/>
+                        <img src={require('./static/kamlesh.JPG')} alt="Avatar" className="avatar"/>
+                        <a href="https://www.linkedin.com/in/kamlesh-nagware-1456094b/"><LinkedInIcon /></a>
                         <div className="containers">
-                            <h4><b>DR. Sujata seshadrinathan</b></h4>
-                            <p>Adjunct Professor at SP Jain School of Global Management</p>
+                            <h4><b>Kamlesh Nagware</b></h4>
+                            <p>CTO at Snapper Future Tech</p>
                         </div>
                     </div>
                     <div className="col-md-12 cards">
                         <img src={require('./static/Shilpa.jfif')} alt="Avatar" className="avatar"/>
+                        <a href="https://www.linkedin.com/in/deshpandeshilpa/"><LinkedInIcon /></a>
                         <div className="containers">
                             <h4><b>Shilpa Deshpande</b></h4>
                             <p>Staff Data Scientist at Chainalysis inc.</p>
