@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b039f1d.css",
+    "main.js": "/static/js/main.d8e0c003.js",
+    "static/media/slider2.svg": "/static/media/slider2.a10f5f60a3bd4f7ccb48.svg",
+    "static/media/BlockChain (2).png": "/static/media/BlockChain (2).b15a747d7a7dbe7b8bbe.png",
+    "static/media/logo@1x.png": "/static/media/logo@1x.62b2cbda740d4561cb3c.png",
+    "static/media/kamlesh.JPG": "/static/media/kamlesh.6d253fce5ff85080bc7c.JPG",
+    "static/media/Garima_Singh.jfif": "/static/media/Garima_Singh.c27c77af90af06838ff9.jfif",
+    "static/media/Dr_Sujata.jfif": "/static/media/Dr_Sujata.7c94fe23479e9e5ec0c0.jfif",
+    "static/media/Shilpa.jfif": "/static/media/Shilpa.3a0eebe7e7d52c108d2b.jfif",
+    "index.html": "/index.html",
+    "main.6b039f1d.css.map": "/static/css/main.6b039f1d.css.map",
+    "main.d8e0c003.js.map": "/static/js/main.d8e0c003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b039f1d.css",
+    "static/js/main.d8e0c003.js"
+  ]
+}
