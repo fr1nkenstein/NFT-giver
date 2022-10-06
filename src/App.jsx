@@ -257,22 +257,21 @@ Connect to your Wallet
         <div className="col col-sm-12 col-lg-6 col-md-12">
 
             <h2>Lorem ipsum dolor sit amet consecutor</h2>
+            
+            <h2>Please follow the followung instructions to get free RinkebeyTestNet to complete nft transaction</h2>
             <ul>
-                <li> Lorem dolor amet sit </li>
+                <li> Click on the Claim your Free NFT Button </li>
                 <li>
-                    Lorem ipsum dolor sit amet consecutor adipiscingLorem ipsum dolor sit amet
+                Click on the left address shown in next window and copy it to clipboard
+                   
                 </li>
-                <li>Lorem ipsum dolor sit amet consecutor</li>
-                <li> Lorem dolor amet sit </li>
-                <li>
-                    Lorem ipsum dolor sit amet consecutor adipiscingLorem ipsum dolor sit amet
-                </li>
-                <li>Lorem ipsum dolor sit amet consecutor</li>
-                <li> Lorem dolor amet sit </li>
-                <li>
-                    Lorem ipsum dolor sit amet consecutor adipiscingLorem ipsum dolor sit amet
-                </li>
-                <li>Lorem ipsum dolor sit amet consecutor</li>
+                <li>Click on th given link  <a href="https://rinkebyfaucet.com/"> click me </a>  and paste your wallet address that you copied there</li>
+             
+                <li>For more precision please refer to document in mail </li>
+                <li>  Claim your free RinkbeyTestNet</li>
+                <li>Have a good day</li>
+
+               
             </ul>
         </div>
 
