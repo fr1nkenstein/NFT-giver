@@ -195,7 +195,7 @@ Connect to your Wallet
                         <img src={require('./static/Garima_Singh.jfif')} alt="Avatar" className="avatar"/>
                         <a href="https://www.linkedin.com/in/garima-singh-03907229/"><LinkedInIcon /></a>
                         <div className="containers">
-                            <h4><b>Graima Singh</b></h4>
+                            <h4><b>Garima Singh</b></h4>
                             <p>Blockchain Research Analyst at TLV Fintech Solutions</p>
                         </div>
                     </div>
