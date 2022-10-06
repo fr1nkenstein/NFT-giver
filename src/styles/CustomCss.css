@@ -529,6 +529,11 @@
     /* Large devices (desktops, 992px and up) */
     
     @media (min-width: 992px) {
+        .right {
+
+            gap: 12vh !important;
+
+        }
         body {
             overflow: hidden;
         }
