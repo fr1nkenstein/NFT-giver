@@ -26,8 +26,8 @@ const customNodeOptions = {
 
 // Setting network to Polygon - Testnet
 // const magic = new Magic('pk_live_04567F8F48C77DB6', { network: customNodeOptions });
-const magic = new Magic("pk_live_73AAE8A5F81B1CF3", {
-  network: "rinkeby",
+const magic = new Magic("pk_live_3477A3849AF078B5", {
+  network: "goerli",
   // network: customNodeOptions,
   locale: "en_US",
   extensions: [new ConnectExtension()]
@@ -256,19 +256,19 @@ Connect to your Wallet
 
         <div className="col col-sm-12 col-lg-6 col-md-12">
 
-            <h2>Lorem ipsum dolor sit amet consecutor</h2>
+           
             
-            <h2>Please follow the followung instructions to get free RinkebeyTestNet to complete nft transaction</h2>
+            <h2>Please follow the followung instructions to get free GoerliTestNet to complete nft transaction</h2>
             <ul>
                 <li> Click on the Claim your Free NFT Button </li>
                 <li>
                 Click on the left address shown in next window and copy it to clipboard
                    
                 </li>
-                <li>Click on th given link  <a href="https://rinkebyfaucet.com/"> click me </a>  and paste your wallet address that you copied there</li>
+                <li>Click on th given link  <a href="https://goerlifaucet.com/">  GET FREE FAUCET </a>  and paste your wallet address that you copied there</li>
              
                 <li>For more precision please refer to document in mail </li>
-                <li>  Claim your free RinkbeyTestNet</li>
+                <li>  Claim your free GoerliTestNet</li>
                 <li>Have a good day</li>
 
                
